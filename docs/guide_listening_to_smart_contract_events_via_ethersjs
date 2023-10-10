@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Guide Listening to Smart Contract Events vis Ethers.js
+title: Guide Listening to Smart Contract Events via Ethers.js
 ---
 
 # Listening to smart contract events from a frontend DApp via Ethers.js
